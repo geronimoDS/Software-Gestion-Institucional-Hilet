@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="BusquedaResultados.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Examen\CargarNotas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Carreras-Materias\FormCargarCarrera.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Carreras-Materias\FormCargarMateria.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Examen\CrearExamen.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Examen\FormListaProfesor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Examen\FormListaExamen.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Reportes\FormListaAlumnos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Reportes\FormReporteAlumno.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Reportes\FormReporteMateria.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Formularios\FormMostrar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Formularios\FormCargarPersonas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormDashboard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Formularios\miPerfil.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Formularios\VerUsuarios.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Carreras-Materias\FormVerDatosGeneral.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Examen\VerExamenes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
